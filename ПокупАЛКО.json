@@ -5540,6 +5540,77 @@
     {
         "brand": "ПокупАЛКО",
         "name_en": "pokupochka",
+        "code": "b91a65f9-2b3b-4b75-a473-a5737db376cd",
+        "rocketdata_categories": [
+            8107,
+            7852,
+            7002,
+            6982
+        ],
+        "brand_alt_names": [
+            "ООО Тамерлан"
+        ],
+        "alt_names": [
+            "Магазин №076"
+        ],
+        "address": {
+            "country": "RU",
+            "lat": 48.777222,
+            "lon": 44.555096,
+            "region": "Волгоградская обл",
+            "city": "Волгоград",
+            "postalcode": "400105",
+            "street": "им маршала Еременко ул",
+            "housenumber": "100"
+        },
+        "website": "https://pokupochka.ru/",
+        "email": "info@pokupochka.ru",
+        "phones": [
+            {
+                "is_main": true,
+                "phone": "+78002013612"
+            }
+        ],
+        "details": {
+            "working_hours": {
+                "1": [
+                    "08:00-23:00"
+                ],
+                "2": [
+                    "08:00-23:00"
+                ],
+                "3": [
+                    "08:00-23:00"
+                ],
+                "4": [
+                    "08:00-23:00"
+                ],
+                "5": [
+                    "08:00-23:00"
+                ],
+                "6": [
+                    "08:00-23:00"
+                ],
+                "7": [
+                    "08:00-23:00"
+                ]
+            }
+        },
+        "closed": false,
+        "active": true,
+        "temporary_closed": false,
+        "payment_methods": [
+            "1",
+            "2"
+        ],
+        "legal": {
+            "name": "Тамерлан",
+            "form": "ООО"
+        }
+    },
+    {
+        "brand": "ПокупАЛКО",
+        "name_en": "pokupochka",
         "code": "ef997c23-6ecd-44ea-9512-fbfaeece2a3f",
         "rocketdata_categories": [
             8107,
