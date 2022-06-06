@@ -4128,7 +4128,7 @@
     },
     "Магазин №368": {
         "code": 422,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.726059,
