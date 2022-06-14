@@ -4913,5 +4913,16 @@
             "street": "Комсомольская ул",
             "housenumber": "22 б"
         }
+    },
+    "Магазин №426": {
+        "code": 481,
+        "address": {
+            "country": "RU",
+            "region": "Волгоградская обл",
+            "city": "Волжский г",
+            "postalcode": "404120",
+            "street": "Энгельса ул",
+            "housenumber": "22"
+        }
     }
 }
