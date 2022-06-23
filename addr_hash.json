@@ -4924,5 +4924,16 @@
             "street": "Энгельса ул",
             "housenumber": "22"
         }
+    },
+    "Магазин №427": {
+        "code": 482,
+        "address": {
+            "country": "RU",
+            "region": "Волгоградская обл",
+            "city": "Волгоград г",
+            "postalcode": "400119",
+            "street": "Туркменская ул",
+            "housenumber": "19"
+        }
     }
 }
