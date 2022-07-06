@@ -1303,7 +1303,7 @@
     },
     "Магазин №163": {
         "code": 215,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 49.851638,
