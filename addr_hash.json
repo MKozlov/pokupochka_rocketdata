@@ -4933,6 +4933,9 @@
     },
     "Магазин №427": {
         "code": 482,
+        "lat": 0.0,
+        "lon": 0.0,
+        "active": 0,
         "address": {
             "country": "RU",
             "region": "Волгоградская обл",
@@ -4950,7 +4953,7 @@
             "city": "Волгоград г",
             "postalcode": "400002",
             "street": "Суровикинская ул",
-            "housenumber": "1а"
+            "housenumber": "1"
         }
     }
 }
