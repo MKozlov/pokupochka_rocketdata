@@ -4905,7 +4905,7 @@
     },
     "Магазин №425": {
         "code": 480,
-        "active": 0,
+        "active": 1,
         "address": {
             "country": "RU",
             "lat": 49.85111,
