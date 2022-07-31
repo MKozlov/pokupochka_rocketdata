@@ -4919,7 +4919,7 @@
     },
     "Магазин №426": {
         "code": 481,
-        "active": 0,
+        "active": 1,
         "address": {
             "country": "RU",
             "lat": 48.787908,
