@@ -2487,6 +2487,77 @@
     {
         "brand": "ПокупАЛКО",
         "name_en": "pokupochka",
+        "code": "6ec728dd-3a24-4f0c-93f7-46c70eb3d387",
+        "rocketdata_categories": [
+            8107,
+            7852,
+            7002,
+            6982
+        ],
+        "brand_alt_names": [
+            "ООО Тамерлан"
+        ],
+        "alt_names": [
+            "Магазин №425"
+        ],
+        "address": {
+            "country": "RU",
+            "lat": 49.85111,
+            "lon": 44.562286,
+            "region": "Волгоградская обл",
+            "city": "Ольховка с",
+            "postalcode": "403651",
+            "street": "Комсомольская ул",
+            "housenumber": "22 д"
+        },
+        "website": "https://pokupochka.ru/",
+        "email": "info@pokupochka.ru",
+        "phones": [
+            {
+                "is_main": true,
+                "phone": "+78002013612"
+            }
+        ],
+        "details": {
+            "working_hours": {
+                "1": [
+                    "00:00-23:59"
+                ],
+                "2": [
+                    "00:00-23:59"
+                ],
+                "3": [
+                    "00:00-23:59"
+                ],
+                "4": [
+                    "00:00-23:59"
+                ],
+                "5": [
+                    "00:00-23:59"
+                ],
+                "6": [
+                    "00:00-23:59"
+                ],
+                "7": [
+                    "00:00-23:59"
+                ]
+            }
+        },
+        "closed": false,
+        "active": true,
+        "temporary_closed": false,
+        "payment_methods": [
+            "1",
+            "2"
+        ],
+        "legal": {
+            "name": "Тамерлан",
+            "form": "ООО"
+        }
+    },
+    {
+        "brand": "ПокупАЛКО",
+        "name_en": "pokupochka",
         "code": "37f3db99-5278-4c93-a3b2-4036ad295b71",
         "rocketdata_categories": [
             8107,
