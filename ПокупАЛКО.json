@@ -307,7 +307,7 @@
             "city": "Новоаннинский",
             "postalcode": "403958",
             "street": "Ленина ул",
-            "housenumber": "64"
+            "housenumber": "64помещение1"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -2011,7 +2011,7 @@
             "city": "Волжский г",
             "postalcode": "404111",
             "street": "им Ленина пр-кт",
-            "housenumber": "95"
+            "housenumber": "95помещ.10"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -2508,7 +2508,7 @@
             "city": "Ольховка с",
             "postalcode": "403651",
             "street": "Комсомольская ул",
-            "housenumber": "22 д"
+            "housenumber": "22д"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -3431,7 +3431,7 @@
             "city": "Новоаннинский",
             "postalcode": "403958",
             "street": "Советская ул",
-            "housenumber": "96"
+            "housenumber": "96А"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -3857,7 +3857,7 @@
             "city": "Волжский",
             "postalcode": "404104",
             "street": "Мира ул",
-            "housenumber": "7"
+            "housenumber": "7б"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -4141,7 +4141,7 @@
             "city": "Средняя Ахтуба рп",
             "postalcode": "404143",
             "street": "Октябрьская ул",
-            "housenumber": "80 а"
+            "housenumber": "80а"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -4283,7 +4283,7 @@
             "city": "Камышин",
             "postalcode": "403877",
             "street": "Некрасова ул",
-            "housenumber": "19 а"
+            "housenumber": "19а"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -4354,7 +4354,7 @@
             "city": "Камышин",
             "postalcode": "403889",
             "street": "Волгоградская ул",
-            "housenumber": "1"
+            "housenumber": "1помещение98"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -4425,7 +4425,7 @@
             "city": "Камышин",
             "postalcode": "403874",
             "street": "Ленина ул",
-            "housenumber": "23"
+            "housenumber": "23пом.112"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -4638,7 +4638,7 @@
             "city": "Палласовка",
             "postalcode": "404263",
             "street": "Мира ул",
-            "housenumber": "22 д блок 3"
+            "housenumber": "22дблок3секция12помещение1-Н"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -4709,7 +4709,7 @@
             "city": "Светлый Яр рп",
             "postalcode": "404171",
             "street": "2-й мкр",
-            "housenumber": "6"
+            "housenumber": "6а"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -4780,7 +4780,7 @@
             "city": "Астрахань",
             "postalcode": "414004",
             "street": "Софьи Перовской ул",
-            "housenumber": "111"
+            "housenumber": "111ЛитерАпомещение89"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -5135,7 +5135,7 @@
             "city": "Пролетарск",
             "postalcode": "347540",
             "street": "Думенко ул",
-            "housenumber": "130"
+            "housenumber": "130а"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -5703,7 +5703,7 @@
             "city": "Волгоград",
             "postalcode": "400120",
             "street": "Елецкая ул",
-            "housenumber": "11"
+            "housenumber": "11А"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -5845,7 +5845,7 @@
             "city": "Волгоград",
             "postalcode": "400121",
             "street": "им Кропоткина ул",
-            "housenumber": "3"
+            "housenumber": "3А"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -6484,7 +6484,7 @@
             "city": "Волгоград",
             "postalcode": "400117",
             "street": "им Землячки ул",
-            "housenumber": "68"
+            "housenumber": "68А"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -6697,7 +6697,7 @@
             "city": "Ипатово",
             "postalcode": "356630",
             "street": "Гагарина ул",
-            "housenumber": "104"
+            "housenumber": "104а"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -6910,7 +6910,7 @@
             "city": "Волгоград",
             "postalcode": "400122",
             "street": "им В.И. Ленина",
-            "housenumber": "26"
+            "housenumber": "26А"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -7123,7 +7123,7 @@
             "city": "Казанская ст-ца",
             "postalcode": "346170",
             "street": "Тимирязева ул",
-            "housenumber": "141"
+            "housenumber": "141Б"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -7194,7 +7194,7 @@
             "city": "Астрахань",
             "postalcode": "414019",
             "street": "Девятый пер",
-            "housenumber": "14-16-18"
+            "housenumber": "14-16-18лит.С"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -7762,7 +7762,7 @@
             "city": "Цаган Аман п",
             "postalcode": "359300",
             "street": "Аюки-хана ул",
-            "housenumber": "17 а"
+            "housenumber": "17а"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -8046,7 +8046,7 @@
             "city": "Урюпинск",
             "postalcode": "403111",
             "street": "Ленина пр-кт",
-            "housenumber": "38"
+            "housenumber": "38а"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -8259,7 +8259,7 @@
             "city": "Волгоград",
             "postalcode": "400050",
             "street": "им Пархоменко ул",
-            "housenumber": "55"
+            "housenumber": "55А"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -8330,7 +8330,7 @@
             "city": "Шолоховский рп",
             "postalcode": "347022",
             "street": "М.Горького ул",
-            "housenumber": "11"
+            "housenumber": "11А"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -8401,7 +8401,7 @@
             "city": "Астрахань",
             "postalcode": "414011",
             "street": "Космонавта Комарова ул",
-            "housenumber": "65"
+            "housenumber": "65Б"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -8543,7 +8543,7 @@
             "city": "Волгоград",
             "postalcode": "400022",
             "street": "Лазоревая ул",
-            "housenumber": "177"
+            "housenumber": "177А"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
@@ -8614,7 +8614,7 @@
             "city": "Волжский",
             "postalcode": "404101",
             "street": "Мира ул",
-            "housenumber": "148"
+            "housenumber": "148ж"
         },
         "website": "https://pokupochka.ru/",
         "email": "info@pokupochka.ru",
