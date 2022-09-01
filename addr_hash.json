@@ -4950,7 +4950,7 @@
     },
     "Магазин №428": {
         "code": 483,
-        "active": 0,
+        "active": 1,
         "address": {
             "country": "RU",
             "lat": 48.673411,
