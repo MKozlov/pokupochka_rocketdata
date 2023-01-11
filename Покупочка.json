@@ -661,7 +661,7 @@
             "region": "Астраханская обл",
             "city": "Волжский ",
             "postalcode": "416205",
-            "street": "Почтовая",
+            "street": "Почтовая None",
             "housenumber": "22"
         },
         "website": "https://pokupochka.ru/",
@@ -4495,7 +4495,7 @@
             "region": "Астраханская обл",
             "city": "Астрахань",
             "postalcode": "414000",
-            "street": "Свердлова/Кирова/Эспланадная",
+            "street": "Свердлова/Кирова/Эспланадная None",
             "housenumber": "26-28/7/17-19ЛитерА"
         },
         "website": "https://pokupochka.ru/",
