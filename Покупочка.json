@@ -7939,8 +7939,8 @@
                 ]
             }
         },
-        "closed": true,
-        "active": false,
+        "closed": false,
+        "active": true,
         "temporary_closed": false,
         "payment_methods": [
             "1",

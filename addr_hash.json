@@ -2714,7 +2714,7 @@
     },
     "Магазин №267": {
         "code": 320,
-        "active": 0,
+        "active": 1,
         "address": {
             "country": "RU",
             "lat": 46.559392,
