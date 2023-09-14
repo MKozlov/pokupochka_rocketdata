@@ -2518,7 +2518,7 @@
     },
     "Магазин №253": {
         "code": 306,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 46.346732,
