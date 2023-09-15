@@ -3330,7 +3330,7 @@
     },
     "Магазин №311": {
         "code": 365,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.511849,
