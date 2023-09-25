@@ -3596,7 +3596,7 @@
     },
     "Магазин №330": {
         "code": 384,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.759289,
