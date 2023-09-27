@@ -4436,7 +4436,7 @@
     },
     "Магазин №390": {
         "code": 444,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 46.968312,
