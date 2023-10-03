@@ -2882,7 +2882,7 @@
     },
     "Магазин №279": {
         "code": 332,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 47.584307,
