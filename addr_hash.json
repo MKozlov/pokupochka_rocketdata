@@ -1989,7 +1989,7 @@
     },
     "Магазин №214": {
         "code": 267,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 45.334249,
