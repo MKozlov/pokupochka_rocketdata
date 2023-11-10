@@ -71,7 +71,7 @@
     },
     "Магазин №058": {
         "code": 108,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.505714,
