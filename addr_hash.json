@@ -113,7 +113,7 @@
     },
     "Магазин №061": {
         "code": 111,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.759052,
