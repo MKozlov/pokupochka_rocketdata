@@ -2224,7 +2224,7 @@
     },
     "Магазин №231": {
         "code": 284,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 49.76638,
@@ -2280,7 +2280,7 @@
     },
     "Магазин №236": {
         "code": 289,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 46.203372,
