@@ -337,7 +337,7 @@
     },
     "Магазин №090": {
         "code": 131,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.765641,
