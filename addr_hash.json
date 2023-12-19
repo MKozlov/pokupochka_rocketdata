@@ -1807,7 +1807,7 @@
     },
     "Магазин №201": {
         "code": 254,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 46.348763,
@@ -4226,7 +4226,7 @@
     },
     "Магазин №375": {
         "code": 429,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 50.531805,
