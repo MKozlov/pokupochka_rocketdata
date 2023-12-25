@@ -547,7 +547,7 @@
     },
     "Магазин №100": {
         "code": 151,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.679147,
@@ -1261,7 +1261,7 @@
     },
     "Магазин №160": {
         "code": 212,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.782899,
