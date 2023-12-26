@@ -701,7 +701,7 @@
     },
     "Магазин №112": {
         "code": 164,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.786568,
