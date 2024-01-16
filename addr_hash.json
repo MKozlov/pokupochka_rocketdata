@@ -4212,7 +4212,7 @@
     },
     "Магазин №374": {
         "code": 428,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 47.646463,
