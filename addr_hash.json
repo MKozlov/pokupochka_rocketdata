@@ -3722,7 +3722,7 @@
     },
     "Магазин №339": {
         "code": 393,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 46.489045,
