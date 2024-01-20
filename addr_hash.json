@@ -2448,7 +2448,7 @@
     },
     "Магазин №248": {
         "code": 301,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 49.799462,
