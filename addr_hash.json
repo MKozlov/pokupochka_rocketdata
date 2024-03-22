@@ -4072,7 +4072,7 @@
     },
     "Магазин №364": {
         "code": 418,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 46.305539,
