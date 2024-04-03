@@ -3484,7 +3484,7 @@
     },
     "Магазин №322": {
         "code": 376,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 47.411126,
