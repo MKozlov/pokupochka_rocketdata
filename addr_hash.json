@@ -3666,7 +3666,7 @@
     },
     "Магазин №335": {
         "code": 389,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 46.417118,
