@@ -659,7 +659,7 @@
     },
     "Магазин №109": {
         "code": 161,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.764012,
@@ -869,7 +869,7 @@
     },
     "Магазин №129": {
         "code": 181,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 49.060108,
@@ -1135,7 +1135,7 @@
     },
     "Магазин №151": {
         "code": 203,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.70748,
@@ -1849,7 +1849,7 @@
     },
     "Магазин №204": {
         "code": 257,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 47.117784,
@@ -2406,7 +2406,7 @@
     },
     "Магазин №245": {
         "code": 298,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 49.75169,
