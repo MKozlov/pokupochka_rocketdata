@@ -3568,7 +3568,7 @@
     },
     "Магазин №328": {
         "code": 382,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.414682,
