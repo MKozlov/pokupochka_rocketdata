@@ -3120,7 +3120,7 @@
     },
     "Магазин №296": {
         "code": 350,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 50.525132,
