@@ -883,7 +883,7 @@
     },
     "Магазин №130": {
         "code": 182,
-        "active": 1,
+        "active": 0,
         "address": {
             "country": "RU",
             "lat": 48.784453,
