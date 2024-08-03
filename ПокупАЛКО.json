@@ -3253,8 +3253,8 @@
                 ]
             }
         },
-        "closed": false,
-        "active": true,
+        "closed": true,
+        "active": false,
         "temporary_closed": false,
         "payment_methods": [
             "1",
@@ -4673,8 +4673,8 @@
                 ]
             }
         },
-        "closed": false,
-        "active": true,
+        "closed": true,
+        "active": false,
         "temporary_closed": false,
         "payment_methods": [
             "1",
@@ -7229,8 +7229,8 @@
                 ]
             }
         },
-        "closed": false,
-        "active": true,
+        "closed": true,
+        "active": false,
         "temporary_closed": false,
         "payment_methods": [
             "1",
